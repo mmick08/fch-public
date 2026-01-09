@@ -1,31 +1,31 @@
 # FC Hermagors Public Automation Content
 
-Dieses Repository enthält öffentliche Inhalte für die Automatisierungen des Football Club FC Hermagors.
+This repository contains public content for Football Club FC Hermagors automations.
 
-## Inhalt
+## Contents
 
-Das Repository beinhaltet:
+This repository includes:
 
-- **Code**: Scripts und Programme für verschiedene Automatisierungen
-- **HTML Templates**: Vorlagen für E-Mails, Webseiten und andere HTML-basierte Ausgaben
-- **Images**: Bilder, Logos und grafische Elemente für die Automatisierungen
+- **Code**: Scripts and programs for various automations
+- **HTML Templates**: Templates for emails, web pages, and other HTML-based outputs
+- **Images**: Images, logos, and graphic elements used in automations
 
-## Struktur
+## Structure
 
 ```
 fch-public/
-├── code/           # Automatisierungs-Scripts und Code
-├── templates/      # HTML-Vorlagen
-└── images/         # Bilder und Grafiken
+├── code/           # Automation scripts and code
+├── templates/      # HTML templates
+└── images/         # Images and graphics
 ```
 
-## Verwendung
+## Usage
 
-Die Inhalte dieses Repositories werden von verschiedenen Automatisierungssystemen des FC Hermagors genutzt, um wiederkehrende Aufgaben zu vereinfachen und zu standardisieren.
+The contents of this repository are used by various automation systems of FC Hermagors to simplify and standardize recurring tasks.
 
-## Lizenz
+## License
 
-Dieses Repository enthält öffentliche Inhalte des FC Hermagors.
+This repository contains public content of FC Hermagors.
 
 ---
 
