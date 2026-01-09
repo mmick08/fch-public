@@ -1,6 +1,6 @@
-# FC Hermagors Public Automation Content
+# FC Hermagor Public Automation Content
 
-This repository contains public content for Football Club FC Hermagors automations.
+This repository contains public content for Football Club FC Hermagor automations.
 
 ## Contents
 
@@ -21,12 +21,12 @@ fch-public/
 
 ## Usage
 
-The contents of this repository are used by various automation systems of FC Hermagors to simplify and standardize recurring tasks.
+The contents of this repository are used by various automation systems of FC Hermagor to simplify and standardize recurring tasks.
 
 ## License
 
-This repository contains public content of FC Hermagors.
+This repository contains public content of FC Hermagor.
 
 ---
 
-*Football Club FC Hermagors*
+*Football Club FC Hermagor*
